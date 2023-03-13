@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/public-health-parallel-coordinates/static/css/main.1e6d2091.css",
-    "main.js": "/public-health-parallel-coordinates/static/js/main.52d10713.js",
+    "main.css": "/public-health-parallel-coordinates/static/css/main.370445da.css",
+    "main.js": "/public-health-parallel-coordinates/static/js/main.822c838b.js",
     "static/js/787.2b8d78e1.chunk.js": "/public-health-parallel-coordinates/static/js/787.2b8d78e1.chunk.js",
     "index.html": "/public-health-parallel-coordinates/index.html",
-    "main.1e6d2091.css.map": "/public-health-parallel-coordinates/static/css/main.1e6d2091.css.map",
-    "main.52d10713.js.map": "/public-health-parallel-coordinates/static/js/main.52d10713.js.map",
+    "main.370445da.css.map": "/public-health-parallel-coordinates/static/css/main.370445da.css.map",
+    "main.822c838b.js.map": "/public-health-parallel-coordinates/static/js/main.822c838b.js.map",
     "787.2b8d78e1.chunk.js.map": "/public-health-parallel-coordinates/static/js/787.2b8d78e1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e6d2091.css",
-    "static/js/main.52d10713.js"
+    "static/css/main.370445da.css",
+    "static/js/main.822c838b.js"
   ]
 }
